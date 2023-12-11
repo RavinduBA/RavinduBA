@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravinduba&label=Profile%20views&color=0e75b6&style=flat" alt="ravinduba" /> </p>
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://twitter.com/r_bandara_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r_bandara_" height="30" width="40" /></a>
-<a href="https://fb.com/ravindu abesyinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ravindu abesyinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/_.ravin__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.ravin__" height="30" width="40" /></a>
+
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
