@@ -10,5 +10,6 @@
 </p>
 
 # <h4>📊GitHub Stats :  </h4>
-![RavinduBA's Stats](https://github-readme-stats.vercel.app/api?username=RavinduBA&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![RavinduBA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduBA&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+
+![RavinduBA's Stats](https://github-readme-stats.vercel.app/api?username=RavinduBA&theme=nord&show_icons=true&hide_border=true&count_private=true)
+![RavinduBA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduBA&theme=nord&show_icons=true&hide_border=true&layout=compact)
