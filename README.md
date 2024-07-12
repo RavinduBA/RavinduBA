@@ -5,7 +5,7 @@
 <h4 align="center">Languages and Tools:</h4>
 <p align="center">
   <a href="https://skillicons.dev" >
-    <img src="https://skillicons.dev/icons?i=c,mongodb,java,php,javascript,firebase,react,html,css,express,nodejs,androidstudio,py,bootstrap,opencv,mysql,git,aws,figma,tailwind,springboot,reactnative,arudino,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=c,mongodb,java,php,javascript,firebase,react,html,css,nodejs,androidstudio,bootstrap,opencv,mysql,git,aws,figma,tailwind,spring,vite,arudino,&perline=10" />
   </a>
 </p>
 
