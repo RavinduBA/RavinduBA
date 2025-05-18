@@ -12,6 +12,6 @@
 # <h4>📊GitHub Stats :  </h4>
 ![RavinduBA's Stats](https://github-readme-stats.vercel.app/api?username=RavinduBA&theme=gotham&show_icons=true&hide_border=false&count_private=true)
 ![RavinduBA's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduBA&theme=gotham&show_icons=true&hide_border=false&layout=compact)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandula00&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chandula00&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RavinduBA&langs_count=10&count_private=true&theme=dark&bg_color=000000&layout=compact&show_icons=true&include_forks=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=RavinduBA&theme=dark&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)<br>
 <!--  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandula00&count_private=true&theme=dark&background=000000)](https://git.io/streak-stats) -->
